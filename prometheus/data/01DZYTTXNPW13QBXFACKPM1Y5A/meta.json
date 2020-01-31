@@ -1,0 +1,17 @@
+{
+	"ulid": "01DZYTTXNPW13QBXFACKPM1Y5A",
+	"minTime": 1580335200000,
+	"maxTime": 1580342400000,
+	"stats": {
+		"numSamples": 72726,
+		"numSeries": 750,
+		"numChunks": 1101
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01DZYTTXNPW13QBXFACKPM1Y5A"
+		]
+	},
+	"version": 1
+}
